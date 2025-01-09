@@ -1,4 +1,4 @@
-server/
+### server/
 ├── controllers/           # Handles business logic for different features
 │   ├── authController.js      # Authentication logic (login, register, verify)
 │   ├── dashboardController.js # Dashboard data and statistics logic

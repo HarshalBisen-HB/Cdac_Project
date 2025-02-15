@@ -152,7 +152,7 @@ npm run dev
 cd frontend
 npm install
 cp .env.example .env
-npm run dev
+node --env-file=.env index.js
 ```
 
 ### Mobile App
